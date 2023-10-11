@@ -1,51 +1,65 @@
-# Mechatronic Engineer
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, AutoCAD, Javascript, Remotask
+# Mechatronics Engineer
+#### Technical Skills: Mechatronics, Sales, Customer Service, Marketing, Teamwork, Writing, Product Description, Product Marketing, Computer Packages
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Bachelor of Science in Mechatronics Engineering | Dedan Kimathi University of Technology (_May 2019 - Present_)								       		
+- Kenya Certificate of Secondary Education | Moi Forces Academy - Nairobi (_March 2015 - November 2018_)	 			        		
+- Kenya Certificate of Primary Education | Kwa- Njenga Primary School (_January 2007 - December 2014_)
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Simcard Salesperson @ Nairobi, Kenya (_June 2020 - September 2020_)**
+- Temporary sim card promoter and salesperson in Nairobi, selling up to 25 sim cards in a day
+- Provided top-notch personal service to boost sales and customer satisfaction
+- Used a consultative sales approach to understand customer needs and recommend relevant offerings
+- Nurtured impactful relationships with customers to cultivate loyalty
+- Networked with the community to build successful relationships with new and long-term customers
 
-![Bike Study](/assets/img/bike_study.jpeg)
+**PACE Training @ Non-Governmental Organization (_February 2019 - May 2019_)**
+- Trained to handle primary school pupils and higher-level students
+- Focused on the importance of presentability and creativity in education
+- Developed and organized projects, including extra study programs and motivation sessions
+- Nurtured impactful relationships with pupils to cultivate genuineness
+- Networked with school teachers to build a successful extra-study program
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+**Writing Internship and Training @ College Aftermath (_February 2021 - May 2021_)**
+- Content writer creating SEO-optimized content on specific topics
+- Completed a 2-week training period focused on company objectives
+- Improved writing skills and maintained set deadlines
+- Nurtured impactful relationships with other writers and HRs
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+❖	Skills
+★	Ability to work in a team
+★	Prospecting
+★	Writing enthusiast
+★	Customer Care
+★	Product Description
+★	Product Marketing
+★	Computer Packages
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-@@ -43,13 +53,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+❖	Education
+May 2019-To date
+Dedan Kimathi University of Technology
+Nyeri, Nyeri Sub County
+Bachelor of Science in Mechatronics Engineering
 
-- [Data Science Blog](https://medium.com/@shawhin)
+March 2015- November 2018
+Moi Forces Academy - Nairobi
+Nairobi County
+Kenya Certificate of Secondary Education
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+January 2007-December 2014
+Kwa- Njenga Primary School
+Embakasi South, Nairobi County
+Kenya Certificate of Primary Education
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+❖	Interests
+★	Volunteer/Community Work
+★	Sports-athletics
+★	Club Membership
+
+❖	Travelling
+- Enjoyed numerous school trips to various parts of the country, including Amboseli National Park, Lake Naivasha, Lake Nakuru, and Menengai Crater, among others.
+
+	Reference
+Dr. A. Wachira
+COD Mechatronics Engineering
+Dedan Kimathi University of Technology
+Phone: 0713835403
