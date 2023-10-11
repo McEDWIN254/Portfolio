@@ -1,11 +1,11 @@
 # Mechatronic Engineer
 
-###Education
+##Education
 Primary, Secondary, BSc
 
-###Work Experience
+##Work Experience
 Automotive Repair
 -big impact project 1
 -big impact project 1
 
-###Projects
+##Projects
