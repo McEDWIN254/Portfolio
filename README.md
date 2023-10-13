@@ -59,7 +59,7 @@ Kenya Certificate of Primary Education
 - Enjoyed numerous school trips to various parts of the country, including Amboseli National Park, Lake Naivasha, Lake Nakuru, and Menengai Crater, among others.
 
 	Reference
-Dr. Titus Mulembo
-COD Mechatronics Engineering
-Dedan Kimathi University of Technology
-Phone: +254113969223
+-Dr. Titus Mulembo
+-COD Mechatronics Engineering
+-Dedan Kimathi University of Technology
+-Phone: +254113969223
